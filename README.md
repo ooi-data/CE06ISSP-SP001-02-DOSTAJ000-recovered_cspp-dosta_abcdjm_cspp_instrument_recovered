@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE06ISSP-SP001-02-DOSTAJ000-recovered_cspp-dosta_abcdjm_cspp_instrument_recovered
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Data Products<br>
+Instrument Group Code: DO<br>
