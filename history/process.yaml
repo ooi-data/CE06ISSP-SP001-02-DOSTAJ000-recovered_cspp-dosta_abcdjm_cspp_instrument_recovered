@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE06ISSP-SP001-02-DOSTAJ000-recovered_cspp-dosta_abcdjm_cspp_instrument_recovered
 data_stream: CE06ISSP-SP001-02-DOSTAJ000-recovered_cspp-dosta_abcdjm_cspp_instrument_recovered
-end_date: '2020-08-12T07:59:27.300Z'
-last_updated: '2021-05-05T21:01:23.580242'
-start_date: '2015-04-10T18:27:09.029Z'
-status: success
+end_date: '2021-05-27T20:05:52.817Z'
+last_updated: '2021-09-18T03:53:28.835801Z'
+start_date: '2015-04-10T18:28:01.186Z'
+status: pending
