@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE06ISSP-SP001-02-DOSTAJ000-recovered_cspp-dosta_abcdjm_cspp_instrument_recovered
-last_request: '2021-12-04T00:33:55.381440Z'
+last_request: '2021-12-21T22:19:49.875514Z'
 response: https://raw.githubusercontent.com/ooi-data/CE06ISSP-SP001-02-DOSTAJ000-recovered_cspp-dosta_abcdjm_cspp_instrument_recovered/main/history/response.json
-status: success
+status: pending
